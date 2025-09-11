@@ -71,6 +71,15 @@ bash scripts/FRWKV/Weather.sh
 
 ## Dataset
 
+### Download Links
+
+The datasets can be downloaded from the following links:
+
+- **Google Drive**: https://drive.google.com/file/d/1Im29DpQakC-9M6Q4PV01YwhXkrnp_L0y/view?usp=sharing
+- **Baidu Pan**: https://pan.baidu.com/s/1epgeVtY1xo1S8juxJpymOQ?pwd=g6fi
+
+### Directory Structure
+
 Please ensure that datasets are placed in the following directory structure:
 
 ```
