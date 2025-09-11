@@ -1,4 +1,4 @@
-# FRWKV - Frequency-Responsive Wavelet Kernel Vision
+# FRWKV
 
 ## Environment Setup
 
