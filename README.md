@@ -1,5 +1,22 @@
 # FRWKV
 
+<div align="center">
+  <h2><b>FRWKV: Frequency-Domain Linear Attention for Long-Term Time Series Forecasting</b></h2>
+</div>
+
+[![](http://img.shields.io/badge/cs.LG-arXiv%3A2512.07539-B31B1B.svg)](https://www.arxiv.org/abs/2512.07539)
+
+> If you find our work useful in your research, please consider giving a star ⭐ and citation 📚:
+
+```bibtex
+@article{yang2025frwkv,
+  title={FRWKV: Frequency-Domain Linear Attention for Long-Term Time Series Forecasting},
+  author={Yang, Qingyuan and Chen, Dongyue and Teng, Da and Gan, Zehua and others},
+  journal={arXiv preprint arXiv:2512.07539},
+  year={2025}
+}
+```
+
 ## Environment Setup
 
 ### 1. Create Conda Environment
