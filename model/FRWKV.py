@@ -24,7 +24,7 @@ class LoRAMLP(nn.Module):
         return result
 
 class LinearAttentionLayerOptimized(nn.Module):
-    """优化后的线性注意力层，移除所有性能降低机制"""
+    
     def __init__(self, d_model, n_heads, token_num, dropout=0.1):
         super().__init__()
         self.d_model = d_model
@@ -160,7 +160,7 @@ class LinearAttentionLayerOptimized(nn.Module):
         return output, None
 
 class LinearFreTransformerOptimized(nn.Module):
-    """优化后的频域Transformer，移除所有性能降低机制"""
+    
     def __init__(self, configs):
         super().__init__()
         self.pred_len = configs.pred_len
@@ -305,7 +305,7 @@ class LinearFreTransformerOptimized(nn.Module):
         return out
 
 class Model(nn.Module):
-    """优化后的主模型类，移除所有性能降低机制"""
+    
     def __init__(self, configs):
         super(Model, self).__init__()
         self.model = LinearFreTransformerOptimized(configs)
