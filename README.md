@@ -8,6 +8,8 @@
 
 > If you find our work useful in your research, please consider giving a star ⭐ and citation 📚:
 
+**BibTeX:**
+
 ```bibtex
 @article{yang2025frwkv,
   title={FRWKV: Frequency-Domain Linear Attention for Long-Term Time Series Forecasting},
@@ -16,6 +18,10 @@
   year={2025}
 }
 ```
+
+**GB/T 7714:**
+
+> Yang Q, Chen D, Teng D, et al. FRWKV: Frequency-Domain Linear Attention for Long-Term Time Series Forecasting\[J\]. arXiv preprint arXiv:2512.07539, 2025.
 
 ## Environment Setup
 
